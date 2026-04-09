@@ -66,11 +66,19 @@ Sinh viên nộp lại toàn bộ project sau khi đã chạy xong, bao gồm:
 - ảnh chụp màn hình terminal hoặc output thành công
 
 ## Sinh viên cần cập nhật README này
-- Họ tên:
-- MSSV:
-- Lớp:
-- Hệ điều hành:
-- Python version:
-- Torch version:
+- Họ tên: Nguyễn Trung Thành
+- MSSV: (Điền MSSV)
+- Lớp: CSC4005
+- Hệ điều hành: Windows
+- Python version: 3.13
+- Torch version: Đã cài đặt
 - Thiết bị chạy: CPU / GPU
-- Ghi chú lỗi gặp phải khi setup (nếu có):
+- Ghi chú lỗi gặp phải khi setup (nếu có): Không có lỗi - môi trường setup thành công ✅
+
+## Kết quả hoàn thành
+✅ Lab 0 đã hoàn thành thành công:
+- Tạo virtual environment
+- Cài đặt dependencies từ requirements.txt
+- Chạy check_env.py - OK
+- Chạy run_smoke_test.py - OK
+- Tất cả outputs đã được sinh thành công (logs, figures, checkpoints)
